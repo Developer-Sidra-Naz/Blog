@@ -13,7 +13,7 @@ export default function About() {
           <span className="font-semibold">Artificial Intelligence (AI)</span>,{" "}
           <span className="font-semibold">Web3</span>, and the{" "}
           <span className="font-semibold">Metaverse</span>. This visionary
-          program reflects the Governor's commitment to positioning our region
+          program reflects the Governor&aposs commitment to positioning our region
           as a global leader in cutting-edge technology and innovation.
         </p>
       </div>
